@@ -1,5 +1,5 @@
-# Master_Thesis
-This repository contains the work done during my Master studies at Aalto Univeristy.
-The necessary hardware and software used for all the projects are provided by Done Enterprises Ab Oy, Vaasa whild doing my master thesis at the organization.
+# Voltage Sensor: MAGNI Robot
+This work is part of my thesis work while doing my Master studies at Aalto Univeristy.
+The necessary hardware and software used for this project are provided by Done Enterprises Ab Oy, Vaasa.
 
-Volatge Sensor:
+Aim: To design, build and test the volatge sensor using Arduino Nano
