@@ -1,0 +1,5 @@
+ADC     Battrey 
+Value - voltage (in volts)
+
+ 990  - 29
+ 986  - 28.96
